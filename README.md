@@ -1,5 +1,5 @@
-induction-machine-params-calculator
-===================================
+Induction machine parameters calculator
+=======================================
 
 #### Description ####
 
