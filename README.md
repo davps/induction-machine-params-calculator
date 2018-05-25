@@ -1,6 +1,9 @@
 Induction machine parameters calculator
 =======================================
 
+![alt text](https://raw.githubusercontent.com/davps/induction-machine-params-calculator/master/output-example.PNG)
+
+
 #### Description ####
 
 This Matlab based software compute the speed, output torque and power, stator current, power factor, and efficiency when an induction motor is operated at rated voltage and frequency.
